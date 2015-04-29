@@ -1,0 +1,22 @@
+<style type="text/css">
+    .form-label-left{
+        width:120px !important;
+    }
+    .form-line{
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+    .form-label-right{
+        width:120px !important;
+    }
+    .form-all{
+        width:600px;
+        color:#555 !important;
+        font-family:'Trebuchet MS';
+        font-size:16px;
+    }
+    .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{
+        color: Black;
+    }
+
+</style>
